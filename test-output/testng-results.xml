@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-21T17:44:14 IST" name="Default suite" finished-at="2024-05-21T17:44:24 IST" duration-ms="10415">
+    <groups>
+    </groups>
+    <test started-at="2024-05-21T17:44:14 IST" name="Default test" finished-at="2024-05-21T17:44:24 IST" duration-ms="10415">
+      <class name="test.project">
+        <test-method is-config="true" signature="projectsetup()[pri:0, instance:test.project@5824a83d]" started-at="2024-05-21T17:44:14 IST" name="projectsetup" finished-at="2024-05-21T17:44:22 IST" duration-ms="8764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- projectsetup -->
+        <test-method signature="suggestiveDropdown()[pri:0, instance:test.project@5824a83d]" started-at="2024-05-21T17:44:22 IST" name="suggestiveDropdown" finished-at="2024-05-21T17:44:24 IST" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suggestiveDropdown -->
+      </class> <!-- test.project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
